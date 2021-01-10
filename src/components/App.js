@@ -1,9 +1,10 @@
 import React from "react";
+import AppShell from "./AppShell";
 
 const App = () => {
   return (
     <div>
-      <h3>Hello World</h3>
+      <AppShell />
     </div>
   );
 };
